@@ -1,0 +1,143 @@
+[[HandIsomorphism]]
+arch = "aarch64"
+git-tree-sha1 = "0b1d32bafbe4a3323f877a6343f4e691a4cd50aa"
+os = "macos"
+
+    [[HandIsomorphism.download]]
+    sha256 = "efe45f53781252a4e185cd3ca54630f8559507a83aeaeda55e3bdee3f03c1dad"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[HandIsomorphism]]
+arch = "aarch64"
+git-tree-sha1 = "8cd8fc20565059028c6d74e8afeb2feebd4cf53a"
+libc = "glibc"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "d6e26728052468904cae58378aa57140a91b223d825698c612ce57aaae923d7c"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[HandIsomorphism]]
+arch = "aarch64"
+git-tree-sha1 = "a3a4a908750f05c5431e4bc166a383f612df6c3c"
+libc = "musl"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "3cbb7722728f9791cadaa9f79838b616c5c1f5b686e5798133358f0d38d55dc9"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.aarch64-linux-musl.tar.gz"
+[[HandIsomorphism]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "493dde611123d07809036278302a5fa7c2afffc3"
+libc = "glibc"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "6ac3da839603b7711079fc06fad74e996e0f910084d55a2c4ff395c22c8f72e9"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[HandIsomorphism]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e2349dc4c3bb7f7a24a3f91fa357ec02f647d749"
+libc = "musl"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "aec59c83f485725a6393e00732b332439bc6505d613cd9bb74520472ccfa4af0"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[HandIsomorphism]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "175339f53da4a720b851b272fb4938dcee1281d1"
+libc = "glibc"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "d4a84c1453e033232d700b4bf04558d21b61495daf9a3443d9b6a17116db7abc"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[HandIsomorphism]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5f4da21a8032b1ced94257dd35581b0d5fad68dd"
+libc = "musl"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "91d2518f51e8def3c3530d302b534da3e26e45b447eddc3838aedba172386424"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[HandIsomorphism]]
+arch = "i686"
+git-tree-sha1 = "311bd38068cf70c771aebc87981e2f05bbd9d8a3"
+libc = "glibc"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "6177b00c44c08c28c750e1694bfd2ec6f9e54e59b7d56fae6066bacf77163c9f"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.i686-linux-gnu.tar.gz"
+[[HandIsomorphism]]
+arch = "i686"
+git-tree-sha1 = "6e87ee4a5be5a4abe61eb43be4e9da5342b730c5"
+libc = "musl"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "20e35a6958e3b97fd256f1def7a8768056f7729874d5e22e3df8e790b092a754"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.i686-linux-musl.tar.gz"
+[[HandIsomorphism]]
+arch = "i686"
+git-tree-sha1 = "518dce53e9aeddf37f0b7d379650a442632c29c5"
+os = "windows"
+
+    [[HandIsomorphism.download]]
+    sha256 = "66aacefa99cc00391dd5d3ab5279b7e5845488ce9781fb76a29981f88c075c29"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.i686-w64-mingw32.tar.gz"
+[[HandIsomorphism]]
+arch = "powerpc64le"
+git-tree-sha1 = "bc764a365ded375844df10a2613d9689e5b936a4"
+libc = "glibc"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "e6d449f5d11d106b87dc385381778d7cd1e65a9bc6fd3844f2bbbcc63e40ff13"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[HandIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "ea0829df322cec8888d012afe877ec7d5e5ac14f"
+os = "macos"
+
+    [[HandIsomorphism.download]]
+    sha256 = "4363c35344ee385bd20aaa230d2c56088098781cbbd6eb6af50ad77a33a27b7a"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[HandIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "e42346dc09bd40a76ef19f4443de90da35ed8f9a"
+libc = "glibc"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "a35f4901e32e4f953110229da758eb3d4500e680900d1be6048c566ceafbd89f"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[HandIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "3683ad8a85ee1157699bcb402cc9408b32665cc7"
+libc = "musl"
+os = "linux"
+
+    [[HandIsomorphism.download]]
+    sha256 = "29babab4890f838897abd37a589ec786b9b5d5021bd988bdcb33cf19b3621e12"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.x86_64-linux-musl.tar.gz"
+[[HandIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "70c87fd0a57fb9a55b2eedc786dc1c16dd2bea5b"
+os = "freebsd"
+
+    [[HandIsomorphism.download]]
+    sha256 = "c153f3b6d80825d5c78363721ce6c9db50028ef2abfcac8d5c3b0fbf63a6df01"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[HandIsomorphism]]
+arch = "x86_64"
+git-tree-sha1 = "b875784e66f43cb07236626139bc5f39ef713949"
+os = "windows"
+
+    [[HandIsomorphism.download]]
+    sha256 = "798b6cc7bc289a8f1e5be57faad86c87d414363bca5d324f8c86cd7bf3b6b7b5"
+    url = "https://github.com/JuliaBinaryWrappers/HandIsomorphism_jll.jl/releases/download/HandIsomorphism-v0.0.1+0/HandIsomorphism.v0.0.1.x86_64-w64-mingw32.tar.gz"
